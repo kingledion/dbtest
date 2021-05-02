@@ -7,7 +7,7 @@ import (
 	"time"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/kingledion/dbtest/data"
+	data "github.com/kingledion/dbtest/dbtest"
 )
 
 func main() {

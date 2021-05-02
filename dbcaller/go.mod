@@ -1,4 +1,4 @@
-module test/dbtest/dbcaller
+module github.com/kingledion/dbtest/dbcaller
 
 go 1.14
 

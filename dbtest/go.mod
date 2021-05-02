@@ -1,4 +1,4 @@
-module test/dbtest
+module github.com/kingledion/dbtest/dbtest
 
 go 1.14
 
